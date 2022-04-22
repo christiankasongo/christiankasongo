@@ -10,7 +10,14 @@
 - 🌱 I’m currently learning Angular and Ionic
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 3 languages ( English, French and Lingala)
-
+- 
 <br />
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://uk.linkedin.com/in/christian-kasongo-269a84196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://uk.linkedin.com/in/christian-kasongo-269a84196" height="30" width="40" /></a>
+</p>
+
+
 
 ### Languages and Tools:
