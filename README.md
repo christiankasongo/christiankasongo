@@ -1,2 +1,2 @@
-### Hi, I'm Chris 👋🏿👨🏿‍💻
-<iframe src="https://giphy.com/embed/12BYUePgtn7sis" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/programmer-dilemma-12BYUePgtn7sis">via GIPHY</a></p>
+# Hi, I'm Chris 👋🏿👨🏿‍💻
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320"/>
