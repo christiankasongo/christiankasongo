@@ -16,7 +16,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/https://uk.linkedin.com/in/christian-kasongo-269a84196" target="blank"><img align="center" src="https://raw.githubusercontent.com/christiankasongo/christiankasongo/main/linkedin.png" alt="https://uk.linkedin.com/in/christian-kasongo-269a84196"/></a>
+<a href="https://linkedin.com/in/https://uk.linkedin.com/in/christian-kasongo-269a84196" target="blank"><img align="center" src="https://raw.githubusercontent.com/christiankasongo/christiankasongo/main/linkedin.png" alt="https://uk.linkedin.com/in/christian-kasongo-269a84196" width="22px"/></a>
 </p>
 
 
