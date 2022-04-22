@@ -1,9 +1,9 @@
-### Hi, I'm Chris 👋🏿👨🏿‍💻
+# Hi, I'm Chris 👋🏿👨🏿‍💻
 <img align="right" src="https://github.com/christiankasongo/christiankasongo/blob/main/giphy.gif" alt="Programmer Gif" width="500" height="320">
 
-### I'm a software engineer who is passionate about writing software that solves problems.
-
+## I'm a software engineer who is passionate about writing software that solves problems.
 <hr>
+
 - ✍ You can find my projects here on Github
 - 🔭 I’m currently working on my first PWA Mobile App
 - 🌱 I’m currently learning Angular and Ionic
