@@ -35,7 +35,9 @@
 
 </details>
 
-##Contact me via
+<br/>
+
+### Contact me via
 <p align="centre">
 <a href="www.linkedin.com/in/christian-kasongo-269a84196" target="blank"><img align="center" src="https://raw.githubusercontent.com/christiankasongo/christiankasongo/main/linkedin.png" alt="www.linkedin.com/in/christian-kasongo-269a84196" width="22px"/></a>
 </p>
