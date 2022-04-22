@@ -10,3 +10,7 @@
 - 🌱 I’m currently learning Angular and Ionic
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 3 languages ( English, French and Lingala)
+
+<br />
+
+### Languages and Tools:
