@@ -3,7 +3,7 @@
 
 ##### I'm a software engineer who is passionate about writing software that solves problems.
 
-<br />
+<br/>
 
 - ✍ You can find my projects here on Github
 - 🔭 I’m currently working on my first PWA Mobile App
@@ -11,7 +11,7 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 3 languages ( English, French and Lingala)
 
-<br />
+<br/>
 
 
 ### Languages and Tools:
@@ -20,19 +20,19 @@
 
 <br />
 <br />
----
+<hr>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Chris's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=christiankasongo&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Chris's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiankasongo" />
 
 </details>
 
