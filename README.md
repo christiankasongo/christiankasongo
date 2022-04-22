@@ -1,5 +1,5 @@
 # Hi, I'm Chris 👋🏿👨🏿‍💻
-<img align="right" src="https://github.com/christiankasongo/christiankasongo/blob/main/giphy.gif" alt="Programmer Gif">
+<img align="right" src="https://github.com/christiankasongo/christiankasongo/blob/main/giphy.gif" alt="Programmer Gif" width="500" height="320">
 
 - ✍ You can find my projects here on Github or [portfolio]
 - 🔭 I’m currently working on my first PWA Mobile App
