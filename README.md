@@ -13,6 +13,7 @@
 - ⚡ Fun fact: I speak 3 languages ( English, French and Lingala)
 
 <br/>
+<br/>
 
 
 ### LANGUAGES AND TOOLS:
@@ -37,6 +38,7 @@
   <summary>:zap: Most Used Languages</summary>
 <img align="left" alt="Chris's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiankasongo" />
 
+<br/>
 <br/>
 <hr>
 
