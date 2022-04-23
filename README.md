@@ -38,6 +38,7 @@
 <img align="left" alt="Chris's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiankasongo" />
 
 <br/>
+<hr>
 
 ### LET'S CONNECT
 <p align="centre">
