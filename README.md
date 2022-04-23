@@ -16,7 +16,7 @@
 <br/>
 
 
-### LANGUAGES AND TOOLS:
+#### LANGUAGES AND TOOLS:
 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="40" src="https://angular.io/assets/images/logos/angular/angular.svg"></code>
@@ -29,6 +29,11 @@
 <code><img height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
 <code><img height="40" src="hhttps://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
 
+#### LET'S CONNECT
+<p align="centre">
+<a href="www.linkedin.com/in/christian-kasongo-269a84196" target="blank"><img align="center" src="https://raw.githubusercontent.com/christiankasongo/christiankasongo/main/linkedin.png" alt="www.linkedin.com/in/christian-kasongo-269a84196" width="22px"/></a>
+</p>
+
 <br/>
 <hr>
 
@@ -37,22 +42,3 @@
  
   <summary>:zap: Most Used Languages</summary>
 <img align="left" alt="Chris's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiankasongo"/>
-
-
-
-
-
-
-
-
-
-
-
-<br/>
-<br/>
-<hr>
-
-### LET'S CONNECT
-<p align="centre">
-<a href="www.linkedin.com/in/christian-kasongo-269a84196" target="blank"><img align="center" src="https://raw.githubusercontent.com/christiankasongo/christiankasongo/main/linkedin.png" alt="www.linkedin.com/in/christian-kasongo-269a84196" width="22px"/></a>
-</p>
