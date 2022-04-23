@@ -7,10 +7,10 @@
 
 
 - ✍ You can find my projects here on Github
-- 🔭 I’m currently working on my first PWA Mobile App
+- 🔭 I’m currently working on my first PWA
 - 🌱 I’m currently learning Angular and Ionic
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 3 languages ( English, French and Lingala)
+- ⚡ Fun fact: I speak 3 languages (English, French and Lingala)
 
 <br />
 <br />
