@@ -7,8 +7,6 @@
 
 
 - ✍ You can find my projects here on Github
-- 🔭 I’m currently working on my first PWA
-- 🌱 I’m currently learning Blazor and .NET MAUI
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 3 languages (English, French and Lingala)
 
