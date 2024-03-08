@@ -8,7 +8,7 @@
 
 - ✍ You can find my projects here on Github
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 3 languages (English, French and Lingala)
+
 
 <br />
 <br />
